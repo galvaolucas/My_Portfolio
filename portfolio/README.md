@@ -8,7 +8,7 @@ When all the work has been completed, i will uptade the final version.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To See what I've made:
+## To See what I've made (if you already have the npm installed :) )
 
 In the project directory, you can run:
 
