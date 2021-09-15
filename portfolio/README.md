@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-In this project, that was created with React JS, usingo HTML, CSS and Javascript, you will see my personal portfolio.
+In this project, that was created with React JS, using HTML, CSS and Javascript, you will see my personal portfolio.
 
 There's still work to do, it is a demo version, not completed yet.
 
